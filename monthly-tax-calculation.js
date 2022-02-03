@@ -1,5 +1,6 @@
 // ======================================
-// first 30days per day 10tk , second 30days per day 30tk , and third per day 50tk
+// monthly tax claculation 
+// first 30days per day 10tk , second 30days per day 30tk , and third per day 50tk 
 // =======================================
 // variable declearation 
 const days = 362;
